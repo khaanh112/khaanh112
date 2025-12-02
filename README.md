@@ -13,7 +13,7 @@
 - 💻 Passionate about **Backend Development**, **System Design**, and **Fullstack Web**  
 - 🌱 Currently focusing on **Java, Node.js, React, Docker, Databases**  
 - 🧠 Strong foundation in **Algorithms, Data Structures, and OOP**  
-- 💼 Looking for **Software Engineering / Backend / Web Development Internship**
+
 
 ---
 
@@ -62,12 +62,6 @@ A basic game created using C++ and SDL2 graphics library.
 
 ---
 
-## 📫 Contact Me
 
-- **Email:** maikhaanh11205@gmail.com  
-- **GitHub:** https://github.com/khaanh112  
-- **LinkedIn:** https://www.linkedin.com/in/kh%E1%BA%A3-anh-mai-9848b9317/
-
----
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
