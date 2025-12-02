@@ -59,17 +59,6 @@ A basic game built using C++ and the SDL2 graphics framework.
 
 ---
 
-## 📈 Currently Improving
-
-- Spring Boot (Java)  
-- Advanced Node.js (Middleware, JWT, Services, MVC)  
-- React hooks & components  
-- Database design (SQL & NoSQL)  
-- Docker & deployment basics  
-- Linux + Bash automation  
-
----
-
 ## 📫 Contact Me
 
 - **Email:** maikhaanh11205@gmail.com
