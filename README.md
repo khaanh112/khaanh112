@@ -2,68 +2,79 @@
 
 <p align="center">
   <b>3rd-year Computer Science Student at VNU - University of Engineering and Technology (UET)</b><br>
-  Backend Development • Software Engineering • Computer Science Fundamentals
+  Backend Development • Fullstack Web • Software Engineering • DevOps Fundamentals
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently a **third-year CS student at VNU-UET**  
-- 💻 Interested in **Backend Development**, **Software Engineering**, and **SRE/DevOps fundamentals**  
-- 🌱 Learning **Java, C++, JavaScript, Linux, Git**  
-- 🔍 Strong focus on **OOP**, **data structures & algorithms**, and writing clean, maintainable code  
-- 💼 Open to **internship and part-time opportunities**
+- 🎓 **3rd-year CS student at VNU-UET**  
+- 💻 Passionate about **Backend Development**, **System Design**, and **Fullstack Web Development**  
+- 🌱 Currently focusing on **Java, Node.js, React, Docker, Databases**  
+- 🧠 Strong foundation in **Algorithms, Data Structures, and OOP**  
+- 💼 Looking for **Software Engineering / Backend / Web Development internship**
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-### **Languages**
-- Java • C++ • JavaScript
+### **Programming Languages**
+- Java • C++ • JavaScript • Python
 
-### **Web Development**
-- HTML • CSS • Basic JS DOM
+### **Backend**
+- Node.js • Express.js  
+- REST APIs • Authentication • MVC Architecture
 
-### **Tools & Technologies**
+### **Frontend**
+- HTML • CSS • JavaScript  
+- React.js • TailwindCSS
+
+### **Databases**
+- MySQL  
+- MongoDB  
+- PostgreSQL
+
+### **DevOps & Tools**
+- Docker  
 - Git & GitHub  
+- Linux • Bash  
 - VS Code • IntelliJ IDEA  
-- Linux (basic)  
-- (Learning) Docker • Bash
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 **Library Management – Java**
-A simple library system using Java OOP with CRUD operations and structured architecture.  
+A simple OOP-based library system with CRUD features and structured modules.  
 👉 https://github.com/khaanh112/Library-Management
 
 ### 🔹 **Book Sharing Website – JavaScript**
-A basic frontend website for sharing and browsing books.  
+Frontend website for sharing books, built with HTML/CSS/JS.  
 👉 https://github.com/khaanh112/Book-Sharing
 
-### 🔹 **C++ Game with SDL2**
-My first game built using C++ and the SDL2 graphics library.  
+### 🔹 **C++ SDL2 Game**
+A basic game built using C++ and the SDL2 graphics framework.  
 👉 https://github.com/khaanh112/GAMESDL2
 
 ---
 
-## 📈 What I'm Currently Improving
+## 📈 Currently Improving
 
-- Data Structures & Algorithms (LeetCode / C++)  
-- Backend frameworks (Spring Boot / Node.js)  
-- Git workflows for team collaboration  
-- Linux command-line  
-- Containers (Docker) & basic DevOps
+- Spring Boot (Java)  
+- Advanced Node.js (Middleware, JWT, Services, MVC)  
+- React hooks & components  
+- Database design (SQL & NoSQL)  
+- Docker & deployment basics  
+- Linux + Bash automation  
 
 ---
 
 ## 📫 Contact Me
 
-- **Email:** your_email@example.com  
+- **Email:** maikhaanh11205@gmail.com
 - **GitHub:** https://github.com/khaanh112  
-- *Optional:* LinkedIn (nếu bạn có)
+- *LinkedIn:* (https://www.linkedin.com/in/kh%E1%BA%A3-anh-mai-9848b9317/)
 
 ---
 
