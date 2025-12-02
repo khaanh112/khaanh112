@@ -9,61 +9,64 @@
 
 ## 🚀 About Me
 
-- 🎓 **3rd-year CS student at VNU-UET**  
-- 💻 Passionate about **Backend Development**, **System Design**, and **Fullstack Web Development**  
+- 🎓 3rd-year CS student at **VNU-UET**  
+- 💻 Passionate about **Backend Development**, **System Design**, and **Fullstack Web**  
 - 🌱 Currently focusing on **Java, Node.js, React, Docker, Databases**  
 - 🧠 Strong foundation in **Algorithms, Data Structures, and OOP**  
-- 💼 Looking for **Software Engineering / Backend / Web Development internship**
+- 💼 Looking for **Software Engineering / Backend / Web Development Internship**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### **Programming Languages**
-- Java • C++ • JavaScript • Python
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
+</p>
 
 ### **Backend**
-- Node.js • Express.js  
-- REST APIs • Authentication • MVC Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### **Frontend**
-- HTML • CSS • JavaScript  
-- React.js • TailwindCSS
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
 ### **Databases**
-- MySQL  
-- MongoDB  
-- PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
 
 ### **DevOps & Tools**
-- Docker  
-- Git & GitHub  
-- Linux • Bash  
-- VS Code • IntelliJ IDEA  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode,idea" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 **Library Management – Java**
-A simple OOP-based library system with CRUD features and structured modules.  
+A simple OOP-based library system with CRUD features and modular design.  
 👉 https://github.com/khaanh112/Library-Management
 
 ### 🔹 **Book Sharing Website – JavaScript**
-Frontend website for sharing books, built with HTML/CSS/JS.  
+Frontend website built with HTML, CSS and JavaScript.  
 👉 https://github.com/khaanh112/Book-Sharing
 
 ### 🔹 **C++ SDL2 Game**
-A basic game built using C++ and the SDL2 graphics framework.  
+A basic game created using C++ and SDL2 graphics library.  
 👉 https://github.com/khaanh112/GAMESDL2
 
 ---
 
 ## 📫 Contact Me
 
-- **Email:** maikhaanh11205@gmail.com
+- **Email:** maikhaanh11205@gmail.com  
 - **GitHub:** https://github.com/khaanh112  
-- *LinkedIn:* (https://www.linkedin.com/in/kh%E1%BA%A3-anh-mai-9848b9317/)
+- **LinkedIn:** https://www.linkedin.com/in/kh%E1%BA%A3-anh-mai-9848b9317/
 
 ---
 
