@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd-year CS student at **VNU-UET**  
+- 🎓 3rd-year IT student at **VNU-UET**  
 - 💻 Passionate about **Backend Development**, **System Design**, and **Fullstack Web**  
 - 🌱 Currently focusing on **Java, Node.js, React, Docker, Databases**  
 - 🧠 Strong foundation in **Algorithms, Data Structures, and OOP**  
