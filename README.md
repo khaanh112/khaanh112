@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kha Anh</h1>
 
 <p align="center">
-  <b>3rd-year Computer Science Student at VNU - University of Engineering and Technology (UET)</b><br>
+  <b>3rd-year Infomation Technology Student at VNU - University of Engineering and Technology (UET)</b><br>
   Backend Development • Fullstack Web • Software Engineering • DevOps Fundamentals
 </p>
 
