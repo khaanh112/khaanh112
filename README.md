@@ -78,7 +78,7 @@ OOP-based library system with CRUD features.
 👉 https://github.com/khaanh112/Library-Management
 
 ### 🔹 **Book Sharing Website – JavaScript**
-A comprehensive website.
+A comprehensive website.            
 👉 https://github.com/khaanh12/Book-Sharing
 
 ### 🔹 **C++ SDL2 Game**
