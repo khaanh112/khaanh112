@@ -20,7 +20,7 @@
 
 - 🎓 3rd-year IT student at **VNU-UET**  
 - 🔧 Interested in **backend development**, **APIs**, and **how systems scale**  
-- 🐳 Learning **Java, Node.js, React, Docker** & database technologies  
+- 🌱 Learning **Java, Node.js, React, Docker** & database technologies  
 - 📈 Curious about **monitoring**, **load testing**, and system behaviors  
 - 🧠 Solid base in **Algorithms, Data Structures, and OOP**
 
@@ -87,11 +87,11 @@ A small game built using C++ and SDL2.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Using Mirror)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=khaanh112&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaanh112&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=khaanh112&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=khaanh112&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
