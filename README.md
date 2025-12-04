@@ -82,9 +82,6 @@ A basic game created using C++ and the SDL2 graphics library.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaanh112&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaanh112&layout=compact&theme=transparent" height="150"/>
-</p>
+
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
