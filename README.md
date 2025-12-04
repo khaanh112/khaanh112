@@ -78,7 +78,7 @@ OOP-based library system with CRUD features.
 👉 https://github.com/khaanh112/Library-Management
 
 ### 🔹 **Book Sharing Website – JavaScript**
-Simple frontend site built with HTML, CSS, JavaScript.  
+A website with strong backend.
 👉 https://github.com/khaanh112/Book-Sharing
 
 ### 🔹 **C++ SDL2 Game**
@@ -87,7 +87,7 @@ A small game built using C++ and SDL2.
 
 ---
 
-## 📊 GitHub Stats (Using Mirror)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img height="150" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=khaanh112&show_icons=true&theme=tokyonight&hide_border=true" />
