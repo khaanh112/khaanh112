@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Kha Anh</h1>
 
 <p align="center">
-  <b>3rd-year Infomation Technology Student at VNU - University of Engineering and Technology (UET)</b><br>
-  Backend Development • Fullstack Web • Software Engineering • DevOps Fundamentals
+  <b>3rd-year Information Technology Student at VNU - University of Engineering and Technology (UET)</b><br>
+  Backend Development • System Design • Fullstack Web • DevOps Fundamentals
 </p>
 
 ---
@@ -10,10 +10,21 @@
 ## 🚀 About Me
 
 - 🎓 3rd-year IT student at **VNU-UET**  
-- 💻 Passionate about **Backend Development**, **System Design**, and **Fullstack Web**  
-- 🌱 Currently focusing on **Java, Node.js, React, Docker, Databases**  
-- 🧠 Strong foundation in **Algorithms, Data Structures, and OOP**  
+- 💻 Enjoy building **backend systems**, designing APIs, and improving application performance  
+- 🌱 Currently learning and working with **Java, Node.js, React, Docker**, and modern database systems  
+- 📊 Interested in **monitoring**, **scaling applications**, and understanding how systems behave under load  
+- 🧠 Solid foundation in **Algorithms, Data Structures, and Object-Oriented Programming**  
 
+---
+
+## 🧩 What I Work On
+
+- Building **scalable backend services** with multi-instance architectures  
+- Using **load balancing** to distribute traffic efficiently  
+- Performance testing with **Locust** (concurrency, RPS & latency analysis)  
+- Monitoring applications using **Prometheus + Grafana**  
+- Caching & optimizing responses with **Redis**  
+- Applying practical **design patterns** (Repository, Strategy, Factory…) for clean and maintainable code  
 
 ---
 
@@ -44,24 +55,24 @@
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode,idea" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🔹 **Library Management – Java**
-A simple OOP-based library system with CRUD features and modular design.  
-👉 https://github.com/khaanh112/Library-Management
-
-### 🔹 **Book Sharing Website – JavaScript**
-Frontend website built with HTML, CSS and JavaScript.  
-👉 https://github.com/khaanh112/Book-Sharing
-
-### 🔹 **C++ SDL2 Game**
-A basic game created using C++ and SDL2 graphics library.  
-👉 https://github.com/khaanh112/GAMESDL2
+### **System Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,prometheus,grafana" />
+</p>
 
 ---
 
+## 🏗 System Architecture (What I Enjoy Building)
 
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
+```mermaid
+graph TD;
+  User --> LB[Load Balancer];
+  LB --> B1[Backend Instance 1];
+  LB --> B2[Backend Instance 2];
+  LB --> B3[Backend Instance 3];
+  B1 --> DB[(Database)];
+  B2 --> DB;
+  B3 --> DB;
+  B1 --> REDIS[(Redis Cache)];
+  B2 --> REDIS;
+  B3 --> REDIS;
