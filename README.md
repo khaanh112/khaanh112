@@ -62,17 +62,20 @@
 
 ---
 
-## 🏗 System Architecture (What I Enjoy Building)
+## 📌 Featured Projects
 
-```mermaid
-graph TD;
-  User --> LB[Load Balancer];
-  LB --> B1[Backend Instance 1];
-  LB --> B2[Backend Instance 2];
-  LB --> B3[Backend Instance 3];
-  B1 --> DB[(Database)];
-  B2 --> DB;
-  B3 --> DB;
-  B1 --> REDIS[(Redis Cache)];
-  B2 --> REDIS;
-  B3 --> REDIS;
+### 🔹 **Library Management – Java**
+A simple OOP-based library system with CRUD operations and modular design.  
+👉 https://github.com/khaanh112/Library-Management
+
+### 🔹 **Book Sharing Website – JavaScript**
+Frontend website built with HTML, CSS, and JavaScript.  
+👉 https://github.com/khaanh112/Book-Sharing
+
+### 🔹 **C++ SDL2 Game**
+A basic game created using C++ and the SDL2 graphics library.  
+👉 https://github.com/khaanh112/GAMESDL2
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
