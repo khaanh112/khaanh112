@@ -2,7 +2,11 @@
 
 <p align="center">
   <b>3rd-year Information Technology Student at VNU - University of Engineering and Technology (UET)</b><br>
-  Backend Development • System Design • Fullstack Web • DevOps Fundamentals
+  Backend Development • Fullstack Web • System Design • DevOps Fundamentals
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaanh112&style=flat-square&color=blue" />
 </p>
 
 ---
@@ -10,21 +14,21 @@
 ## 🚀 About Me
 
 - 🎓 3rd-year IT student at **VNU-UET**  
-- 💻 Enjoy building **backend systems**, designing APIs, and improving application performance  
-- 🌱 Currently learning and working with **Java, Node.js, React, Docker**, and modern database systems  
-- 📊 Interested in **monitoring**, **scaling applications**, and understanding how systems behave under load  
-- 🧠 Solid foundation in **Algorithms, Data Structures, and Object-Oriented Programming**  
+- 💻 Interested in **backend development**, **APIs**, and how systems scale in real-world environments  
+- 🌱 Currently learning **Java, Node.js, React, Docker**, databases, and backend design principles  
+- 📊 Curious about performance, monitoring, and how applications behave under load  
+- 🧠 Good foundation in **Algorithms, Data Structures, and OOP**
 
 ---
 
-## 🧩 What I Work On
+## 🧩 What I'm Exploring
 
-- Building **scalable backend services** with multi-instance architectures  
-- Using **load balancing** to distribute traffic efficiently  
-- Performance testing with **Locust** (concurrency, RPS & latency analysis)  
-- Monitoring applications using **Prometheus + Grafana**  
-- Caching & optimizing responses with **Redis**  
-- Applying practical **design patterns** (Repository, Strategy, Factory…) for clean and maintainable code  
+- Building small backend services and experimenting with **multi-instance deployments**  
+- Trying out **load balancing** to understand traffic distribution  
+- Using **Locust** for performance testing & RPS/latency measurements  
+- Exploring **Prometheus + Grafana** for basic monitoring  
+- Practicing caching techniques using **Redis**  
+- Applying simple **design patterns** to keep my projects structured and maintainable  
 
 ---
 
@@ -52,7 +56,7 @@
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,vscode,idea" />
 </p>
 
 ### **System Tools**
@@ -69,7 +73,7 @@ A simple OOP-based library system with CRUD operations and modular design.
 👉 https://github.com/khaanh112/Library-Management
 
 ### 🔹 **Book Sharing Website – JavaScript**
-Frontend website built with HTML, CSS, and JavaScript.  
+A frontend website built with HTML, CSS, and JavaScript.  
 👉 https://github.com/khaanh112/Book-Sharing
 
 ### 🔹 **C++ SDL2 Game**
@@ -77,5 +81,10 @@ A basic game created using C++ and the SDL2 graphics library.
 👉 https://github.com/khaanh112/GAMESDL2
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaanh112&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaanh112&layout=compact&theme=transparent" height="150"/>
+</p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
