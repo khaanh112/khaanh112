@@ -94,9 +94,6 @@ A small game built using C++ and SDL2.
   <img height="150" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=khaanh112&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaanh112&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
