@@ -71,11 +71,22 @@
 
 ---
 
-## 📌 Featured Projects
+📌 Featured Projects
+###**🔹 SynoCard – Smart Digital Business Card Platform (Node.js)**
 
-### 🔹 **Library Management – Java**
-OOP-based library system with CRUD features.  
-👉 https://github.com/khaanh112/Library-Management
+A full-stack web application for creating smart digital business cards with QR codes and public profile pages.
+
+Built RESTful APIs using Node.js, Express, Prisma, PostgreSQL
+
+Developed frontend with React, Vite, Tailwind CSS
+
+Implemented JWT authentication, profile management, and basic analytics
+
+Containerized services using Docker & Docker Compose
+👉 https://github.com/khaanh112/SynoCard
+
+🌐 https://synocard.vercel.app/
+
 
 ### 🔹 **Book Sharing Website – JavaScript**
 A comprehensive website.            
