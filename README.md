@@ -71,7 +71,7 @@
 
 ---
 
-📌 Featured Projects
+###**📌 Featured Projects**                                          
 ###**🔹 SynoCard – Smart Digital Business Card Platform (Node.js)**
 
 A full-stack web application for creating smart digital business cards with QR codes and public profile pages.
@@ -82,8 +82,8 @@ Developed frontend with React, Vite, Tailwind CSS
 
 Implemented JWT authentication, profile management, and basic analytics
 
-Containerized services using Docker & Docker Compose
-👉 https://github.com/khaanh112/SynoCard
+Containerized services using Docker & Docker Compose                            
+👉 https://github.com/khaanh112/SynoCard                        
 
 🌐 https://synocard.vercel.app/
 
