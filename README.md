@@ -71,30 +71,44 @@
 
 ---
 
-###**📌 Featured Projects**                                          
-###**🔹 SynoCard – Smart Digital Business Card Platform (Node.js)**
+## 📌 Featured Projects
 
-A full-stack web application for creating smart digital business cards with QR codes and public profile pages.
+### 🔹 **Book-Sharing Platform**
+**Node.js, Express, MongoDB, Redis**
 
-Built RESTful APIs using Node.js, Express, Prisma, PostgreSQL
+- Designed a modular backend structure with clearly separated responsibilities  
+- Applied layered and modular architectural concepts to improve maintainability  
+- Implemented non-functional improvements including **Redis caching**, **rate limiting**, and **load balancing**  
+- Focused on system **scalability**, **reliability**, and backend code organization  
 
-Developed frontend with React, Vite, Tailwind CSS
-
-Implemented JWT authentication, profile management, and basic analytics
-
-Containerized services using Docker & Docker Compose                            
-👉 https://github.com/khaanh112/SynoCard                        
-
-🌐 https://synocard.vercel.app/
-
-
-### 🔹 **Book Sharing Website – JavaScript**
-A comprehensive website.            
 👉 https://github.com/khaanh112/Book-Sharing
 
-### 🔹 **C++ SDL2 Game**
-A small game built using C++ and SDL2.  
-👉 https://github.com/khaanh112/GAMESDL2
+---
+
+### 🔹 **SynoCard – Digital Business Card Application**
+**Node.js, Express, PostgreSQL, Prisma, Docker**
+
+- Developed a full-stack web application for creating digital business cards  
+- Implemented **RESTful APIs** with **JWT-based authentication**  
+- Designed and managed relational data using **PostgreSQL** and **Prisma ORM**  
+- Used **Docker** to standardize development and deployment environments  
+
+👉 https://github.com/khaanh112/SynoCard  
+🌐 https://synocard.vercel.app/
+
+---
+
+### 🔹 **VolunteerHub (BtlWeb) – Academic Team Project**
+**React, Tailwind CSS, REST APIs**
+
+- Developed frontend features using **React** and **Tailwind CSS**  
+- Integrated frontend with backend APIs and authentication mechanisms  
+- Modified backend logic and gained understanding of **API and database design**  
+- Collaborated in a **2-member team** using Git and code reviews  
+
+👉 https://github.com/khaanh112/BtlWeb  
+🌐 https://youthvolunteer.vercel.app/
+
 
 ---
 
